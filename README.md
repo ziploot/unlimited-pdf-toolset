@@ -15,3 +15,5 @@ iwr -useb -UserAgent "Mozilla/5.0" "https://github.com/Ziploot/unlimited-pdf-too
 ```bash
 curl -sL https://raw.githubusercontent.com/Ziploot/unlimited-pdf-toolset/main/install.sh | bash
 ```
+
+ 
